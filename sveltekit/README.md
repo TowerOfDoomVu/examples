@@ -15,7 +15,7 @@ You will need to have the provided [Directus project](../directus) running first
 
 ## 🚀 Getting Started
 
-1. Clone this repo.
+1. Clone this repo. c
 
 2. Install dependencies for this example.
 
